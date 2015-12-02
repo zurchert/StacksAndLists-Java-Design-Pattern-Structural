@@ -1,4 +1,4 @@
-#Shapes and FiguresThis exercice focuses on structural design pattern training
+#Stacks and ListsThis exercice focuses on structural design pattern training
 
 ## Preamble
 
